@@ -1,0 +1,128 @@
+header{
+	background-color: #009fe3;
+}
+
+.fondo  {
+  background-color: #ddedf2;
+	padding-bottom: 10px;
+		}
+
+.fondo2 {
+	background-color: transparent;
+}
+@font-face {
+	font-family:'GothamRounded-Medium';
+	src: url('GothamRounded-Medium.eot');
+	src: url('GothamRounded-Medium.eot?#iefix') format('embedded-opentype'),
+		url('GothamRounded-Medium.woff2') format('woff2'),
+		url('GothamRounded-Medium.woff') format('woff'),
+		url('GothamRounded-Medium.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+h1{
+	font-family: 'GothamRounded-Medium';
+    font-weight: bold;
+    font-style: normal;
+}
+
+div.scroll {
+    
+    width: 100%;
+    height: 60%;
+    overflow: scroll;
+}
+
+footer{
+	background-color: #009fe3;
+	    margin-top: 30px;
+}
+
+
+h6 {
+    color: white;
+}
+
+h7{
+    color: white;
+}
+.social-header a {
+	margin-top: 500px;
+	/*position: absolute;bottom: 0;right: 0;*/
+}
+
+.social-header a{
+	color: #fff;
+}
+
+.social-header a .fa-inverse {
+	color: #fff;
+}
+
+.carousel-inner > .carousel-item > img {
+  position: center;
+  background-size:cover;
+  width:100%;
+  /*height:360px;*/
+}
+
+.slider {
+	width: 100%;
+	height: auto;
+
+}
+
+.owl-carousel .item {
+    padding: 0 5px;
+}
+
+
+.owl-carousel .owl-nav div  {
+	
+}
+.owl-carousel .owl-nav div .owl-next {
+	/* position:absolute;
+	height: 40px;
+	width: 40px;
+	background:#ddedf2;
+	text-align: center;
+	top: 30%;
+	transform: translateY(-50%);
+	line-height: 80px;
+	font-size: 20px;
+	margin-top: 50px;*/
+	left: auto;
+	right: 20px;
+}
+
+.limited {
+	max-width: 991px; 
+	margin: 0 auto;
+	display: block;
+	size: cover;
+}
+
+.container{
+
+}
+.caja{
+	height:48%;
+                                  width:100%;
+                                  overflow:auto;                                                               
+                                  padding:10px;  
+                                  margin-left: 5% 
+}
+
+figcaption {
+    padding: 10px;
+    position: relative;
+    top: -100px;
+    background-color: rgba(0,0,0,0.6);
+    color: #fff;
+}
+
+center > a > img {
+    margin-bottom: 20px;
+}
