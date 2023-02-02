@@ -25,6 +25,10 @@ Aportar en la formación a ciudadanía en general a través del fortalecimiento 
 - Que los contenidos se publiquen en el estándar de objetos pedagógicos estructurados SCORM Convenio 334 - 68 de 2017, que da los lineamientos para la promoción de la apropiación del espacio público a través de formación en liderazgos y formación en formulación de proyectos de apropiación de espacio público con énfasis en cultura y arte.
 - Al menos un 5% de ciudadanos que se inscriban en la plataforma completen el módulo.
 
+<details>
+  <summary>Leer más sobre este proyecto</summary>
+  
+
 ## Reconocimiento Territorial
 
 Por: Alvaro Santoyo
@@ -320,3 +324,5 @@ Libro Pensamiento en red
 [^1]: Appadurai, Arjun. 2001(1996). _Modernity at Large. Cultural Dimensions of Globalization._ Minneapolis-London: University of Minnesota Press.
 [^2]: Fragmento de la sistematización intensivo 3 Liderazgo comunitario. Julio 22 de 2017. Escuela de Liderazgo Habitando, Cultura en comunidad.
 [^3]: Fragmento de la Carta de los barrios Paraíso, Mirador, Bellaflor, Alpes, El Eden para el mundo escrita colectivamente durante el taller intensivo 1 de Memorias Barriales. Mayo 21 y 22 de 2017. Escuela de Liderazgo Habitando, Cultura en Comunidad.
+</details>
+
