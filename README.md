@@ -26,7 +26,7 @@ Aportar en la formación a ciudadanía en general a través del fortalecimiento 
 - Al menos un 5% de ciudadanos que se inscriban en la plataforma completen el módulo.
 
 <details>
-  <summary>Leer más sobre este proyecto</summary>
+  <summary>Leer más sobre el contenido de este curso</summary>
   
 
 ## Reconocimiento Territorial
